@@ -1,4 +1,4 @@
-<template>
+<template>--
 	<uni-list class="center-list"><uni-list-item @click="click(0)" :show-extra-icon="true" :extraIcon="clean" title="清除缓存" showArrow="true" rightNote="点击清除" /></uni-list>
 </template>
 
